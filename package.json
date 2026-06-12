@@ -1,0 +1,11 @@
+{
+  "name": "padroes-de-projeto-criacionais",
+  "version": "1.0.0",
+  "description": "Projeto em Node.js para demonstrar padroes de projeto em um e-commerce simples.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Arthur Henrique Abreu e Matheus Fonte Goncalves",
+  "license": "MIT"
+}
